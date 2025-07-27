@@ -124,6 +124,13 @@ nav ul li:hover::after{
     margin: 10px 0;
 }
 .tab-contents ul li span{
-    color: #009fff;
+    font-style:italic;
+    color: #0009bb;
     font-size: 14px;
+}
+.tab-contents{
+    display: none;
+}
+.tab-contents.active-tab{
+    display: block;
 }
