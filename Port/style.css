@@ -4,6 +4,9 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+html {
+    scroll-behavior: smooth;
+}
 body{
     background: #080808;
     color: #fff;
@@ -135,6 +138,9 @@ nav ul li:hover::after{
 /* --- Services --- */
 #services{
     padding: 30px 0;
+}
+#services h1{
+    color:#fff
 }
 .services-list{
     display: grid;
