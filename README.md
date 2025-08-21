@@ -15,7 +15,7 @@ This website is not currently being hosted. I am exploring options, but given th
 To view this website, the current recommeded method is simply to clone this repository, open the "port" folder on Visual Studio Code, and run the website with the Live Server extension.
 
 Visual Studio Code can be downloaded at: https://code.visualstudio.com
-Once the installer has been run, navigate to the extensions tab. The only extensions used in this website are ".NET Install Tool" and "Live Server". After these have been installed, go to File -> Open Folder, and select the location of the port folder. The index.html and style.css will appear on the left column. Open the HTML file and right click anywhere, then select "Open with Live Server".
+Once the installer has been run, open Visual Studio Code and navigate to the extensions tab. The only extensions used in this website are ".NET Install Tool" and "Live Server". After these have been installed, go to File -> Open Folder, and select the location of the port folder. The index.html and style.css will appear on the left column. Open the HTML file and right click anywhere, then select "Open with Live Server".
 
 ### Components
 As aforementioned, this Website is built with HTML 5, CSS, and embedded JavaScript. Additional components include images, borrowed scripts from Jaimie Wilson, and several icons from fontawesome.com.
