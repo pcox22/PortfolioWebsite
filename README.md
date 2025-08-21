@@ -5,4 +5,8 @@
 This website is currently being developed using Microsoft Visual Studio Code. It utilizies basic HTML, CSS, and Javascript.
 Project files are stored inside the "Port" folder (short for portfolio)
 
+Full credit to Jaimie Wilson for one of the scripts and the Google Sheets Script used for the contact form.
+The referenced repository can be found here:
+https://github.com/jamiewilson/form-to-google-sheets
+
 As of now, there is no portfolio section. I did not wish to display class work there, and my personal projects (Unity) aren't what I intend to represent myself with. The intent is to display myself in this website, even if it is not being actively hosted. For that reason, it is somewhat more personal than other professional documents.
