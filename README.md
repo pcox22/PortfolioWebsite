@@ -10,9 +10,9 @@ The referenced repository can be found here:
 https://github.com/jamiewilson/form-to-google-sheets
 
 ### Hosting
-This website is not currently being hosted. I am exploring options, but given the mildly unprofessional nature of this project, it stands to reason that it serves better as experience than an acute representation of myelf.
+It's official! This site is corrently being hosted via GitHub Actions (or at least it was when I wrote this)! The static.yml file reroutes the target for the primary site files, and GitHub Actions branch deployment covers the rest! This solution works perfectly for this project since it's a single page, static website.
 
-To view this website, the current recommeded method is simply to clone this repository, open the "port" folder on Visual Studio Code, and run the website with the Live Server extension.
+Alternatively, to view this website, clone this repository, open the "port" folder on Visual Studio Code, and run the website with the Live Server extension.
 
 Visual Studio Code can be downloaded at: https://code.visualstudio.com
 Once the installer has been run, open Visual Studio Code and navigate to the extensions tab. The only extensions used in this website are ".NET Install Tool" and "Live Server". After these have been installed, go to File -> Open Folder, and select the location of the port folder. The index.html and style.css will appear on the left column. Open the HTML file and right click anywhere, then select "Open with Live Server".
@@ -22,5 +22,10 @@ As aforementioned, this Website is built with HTML 5, CSS, and embedded JavaScri
 
 The site is simple; it consists of one page with multiple sections, rather than a different web page for each spot. The only external component is a Google Sheet that is linked to the contact form. When using the form, a "valid" email address is required, and when submitted, the name, email, and message are delivered to unique columns on a spreadsheet. This was made possible by the scripting provided by Wilson's public repository.
 
+The repository can be viewed at https://github.com/jamiewilson/form-to-google-sheets.
+
 Moderate mobile support is provided. A sliding menu presents the sections to avoid clutter, and the images, sections, and font-sizes are all adjusted for smaller screens.
+
+### Conclusion
+I believe that with the commit to update this Read Me, this website will finally be complete. Well, at least until I take new professional pictures with my (better) new haircut, and inevitably forget to remove this statement. It was incredibly fun to set everything up and express myself to the world, and ideally recruiters. Thanks your taking the time to view this project!
 
