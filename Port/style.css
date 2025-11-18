@@ -235,16 +235,6 @@ form input, form textarea{
     font-size: 18px;
     border-radius: 6px;
 }
-/*
-Unused Style Modifications
-
-form .btn.btn2{
-    padding: 14px;
-    font-size: 18px;
-    margin-top: 20px;
-    cursor: pointer;
-}
-*/
 .btn.btn2{
     background: #000;
     transition: 0.5s;
