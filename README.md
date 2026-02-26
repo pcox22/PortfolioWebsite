@@ -1,8 +1,8 @@
 # Personal Website
 
-### A "Portfolio" Website to describe and express myself to potential employers.
+### A Portfolio Website to describe and express myself to potential employers.
 
-This website is currently being developed using Microsoft Visual Studio Code. It utilizies basic HTML, CSS, and Javascript.
+My site was developed using Microsoft Visual Studio Code. It utilizies basic HTML, CSS, and Javascript.
 Project files are stored inside the "Port" folder (short for portfolio)
 
 Full credit to Jaimie Wilson for one of the scripts and the Google Sheets Script used for the contact form.
@@ -18,7 +18,7 @@ Visual Studio Code can be downloaded at: https://code.visualstudio.com
 Once the installer has been run, open Visual Studio Code and navigate to the extensions tab. The only extensions used in this website are ".NET Install Tool" and "Live Server". After these have been installed, go to File -> Open Folder, and select the location of the port folder. The index.html and style.css will appear on the left column. Open the HTML file and right click anywhere, then select "Open with Live Server".
 
 ### Components
-As aforementioned, this Website is built with HTML 5, CSS, and embedded JavaScript. Additional components include images, borrowed scripts from Jaimie Wilson, and several icons from fontawesome.com.
+As aforementioned, this Website is built with HTML 5, CSS, and embedded JavaScript. Additional components include images, a borrowed scripts from Jaimie Wilson, and several icons from fontawesome.com.
 
 The site is simple; it consists of one page with multiple sections, rather than a different web page for each spot. The only external component is a Google Sheet that is linked to the contact form. When using the form, a "valid" email address is required, and when submitted, the name, email, and message are delivered to unique columns on a spreadsheet. This was made possible by the scripting provided by Wilson's public repository.
 
